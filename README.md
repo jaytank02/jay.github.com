@@ -1,6 +1,4 @@
 # jay.github.com
-<!DOCTYPE html>	
-
 <html>
 	<head>
 		<title>Login Page</title>
@@ -81,9 +79,7 @@
 					<a href="homepage.php"><input type="submit" name="login" value="Log in" id="loginbtn" class="cen3"></a>
 					<P>Forgate <a href="forgetpage.php">Password?</a></p>
 					<p>Create New Account? <a href="signuppage.php">Sign in</a></p>
-					
 			</form>
 		</center>
-		
 	</body>
 </html>
