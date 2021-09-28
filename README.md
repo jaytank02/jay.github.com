@@ -17,6 +17,7 @@
 			form{
 				font-family:verdana;
 				color:white;
+				background-color:black;
 			}
 			table{
 				border:1px solid white;
@@ -31,6 +32,7 @@
 				 cursor:text;
 				 border:0px;
 				 border-radius:5px;
+				 color:white;
 			}
 			.cen2{
 				 text-align: center;
@@ -39,6 +41,7 @@
 				 cursor:text;
 				 border:0px;
 				 border-radius:5px;
+				 color:white;
 			}
 			.cen3{
 				 text-align: left;
