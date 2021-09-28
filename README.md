@@ -25,24 +25,6 @@
 				border-radius:5px;
 				margin:4px;
 			}
-			.cen1{
-				 text-align: center;
-				 padding:5px;
-				 margin:4px;
-				 cursor:text;
-				 border:0px;
-				 border-radius:5px;
-				 color:white;
-			}
-			.cen2{
-				 text-align: center;
-				 padding:5px;
-				 margin:6px;
-				 cursor:text;
-				 border:0px;
-				 border-radius:5px;
-				 color:white;
-			}
 			.cen3{
 				 text-align: left;
 				 padding:8px 135px;
@@ -79,7 +61,7 @@
 						<td align="left"><input type="password" name="password" placeholder="Enter Password" value="" id="password" class="cen2" required><br></td>
 					</tr>	
 				</table>
-					<a href="homepage.php"><input type="submit" name="login" value="Log in" id="loginbtn" class="cen3"></a>
+					<a href=""><input type="submit" name="login" value="Log in" id="loginbtn" class="cen3"></a>
 					<P>Forgate <a href="forgetpage.php">Password?</a></p>
 					<p>Create New Account? <a href="signuppage.php">Sign in</a></p>
 			</form>
